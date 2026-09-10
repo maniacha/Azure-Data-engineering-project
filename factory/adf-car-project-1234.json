@@ -1,0 +1,15 @@
+{
+	"name": "adf-car-project-1234",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4bc983a8-efa7-4827-ba92-ab9e935e4577",
+		"tenantId": "f6fb4a7f-99ad-4b8e-aa61-2e6fd9a7fba1"
+	}
+}

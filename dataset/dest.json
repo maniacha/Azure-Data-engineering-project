@@ -1,0 +1,17 @@
+{
+	"name": "dest",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "middest",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "salesdata"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
