@@ -1,0 +1,15 @@
+{
+	"name": "adf-spotify-project-2026-real",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "43f096e8-b2c5-43ea-bd0f-98b3c1073100",
+		"tenantId": "f6fb4a7f-99ad-4b8e-aa61-2e6fd9a7fba1"
+	}
+}
